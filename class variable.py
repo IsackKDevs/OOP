@@ -25,3 +25,4 @@ print(Employee.num_of_emps)
 emp_1 = Employee("Isack", "kipanga", 5000)
 emp1_raise = emp_1.apply_raise
 print(emp1_raise)
+
